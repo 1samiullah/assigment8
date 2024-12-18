@@ -1,0 +1,227 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: 75px;
+    line-height: 75px;
+    padding: 0px 100px;
+    position: fixed;
+    background-color: black;
+}
+nav .logo{
+    
+    cursor: pointer;
+}
+body{
+ background-color: black;
+}
+ul{
+    float: right;
+}
+ul li{
+    display:inline-block;
+    list-style: none;
+
+}
+nav li a{
+font-size: 18px;
+text-transform: uppercase;
+padding: 0px 30px;
+color: #fff;
+text-decoration: none;
+}
+nav li button{
+  
+background-color: red;
+border-radius: 20px;
+border: 1px solid #f02020;
+color: #fff;
+height: 40px;
+
+}
+#free{
+    border-color: #fff;
+    background-color: black;
+    color: #fff;
+    height: 40px;
+    border-radius: 20px;
+    width: 150px;
+}
+.nic{
+    color: #fff;
+    font-size: 50px;
+}
+.dic{
+    color: #fff;
+}
+.jic{
+    color: #fff;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+#container div{
+    margin: 6px;
+    height: 370px;
+    width: 335px;
+    color: #fff;
+    text-align: center;
+}
+#container div button{
+    width: 130px;
+    height: 35px;
+    border-radius: 15px;
+    color: #fff;
+    background-color: black;
+    font-size: 18px;
+    border-color: #c1f3dc;
+}
+.sick{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+.kill{
+    color: #fff;
+    text-align: center;
+}
+#b-container{
+    display: flex;
+    justify-content: center;
+    min-width: 100%;
+    min-height: 1400px;
+    color: #fff;
+    float: left;
+   
+    
+}
+.side-flot{
+    display: inline-block;
+    float: right;
+    width: 50%;
+}
+.fant{
+    display: inline-block;
+    float: left;
+    width: 50%;
+    text-align: center;
+    width: 50%;
+    font-size: 60px;
+    color: red;
+}
+.ogi{
+    color: #fff;
+    float: left;
+}
+.fant p{
+    
+    letter-spacing: 10px;
+}
+.til{
+    color: red;
+    letter-spacing: 10px;
+    font-size: large;
+    float: left;
+}
+#rang{
+    font-size:20px;
+    float: left;
+    
+    
+}
+#rang input{
+    width: 250px;
+    height: 26px;
+    border: none;
+}
+#yayoo{
+    width: 130px;
+    height: 30px;
+    border-radius: 20px;
+    color: #fff;
+    background-color: red;
+    border-color: #c1f3dc;
+}
+.side-flot p{
+    color: red;
+    letter-spacing: 10px;
+    font-size: 20px;
+}
+#band{
+    font-size: 50px;
+}
+#light input{
+    width: 350px;
+    
+}
+#opo{
+    color: #fff;
+    background-color: red;
+    width: 130px;
+    height: 33px;
+    border-radius: 13px;
+    border-color: #c1f3dc;
+}
+#can{
+    float: left;
+   width: 13px;
+    font-size:20px;
+}
+#can input{
+    width: 250px;
+    height: 26px;
+    border: none;
+}
+#chain{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+.conter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+.conter div{
+    margin: 7px;
+    height: 370px;
+    width: 335px;
+    color: #fff;
+    text-align: center;
+}
+.conter div button{
+    width: 130px;
+    height: 35px;
+    border-radius: 15px;
+    color: #fff;
+    background-color: black;
+    font-size: 18px;
+    border-color: #c1f3dc;}
+    #bitt{
+        color: #f02020;
+    }
+    #kol{
+        font-size: 30px;
+    }
+    .note{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 400px; 
+    color: #fff;
+    }
+    .note div{
+        margin: 7px;
+    height: 370px;
+    width: 335px;
+    color: #fff;
+    text-align: center;
+    }
+        
